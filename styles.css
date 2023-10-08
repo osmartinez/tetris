@@ -1,0 +1,10 @@
+body{
+    background: black;
+}
+
+#board{
+    display: block;
+    margin: auto;
+
+    background: darkblue;
+}
